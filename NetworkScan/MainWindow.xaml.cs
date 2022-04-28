@@ -19,6 +19,10 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
+//https://habr.com/ru/post/262699/
+//https://docs.microsoft.com/ru-ru/windows/win32/wmisdk/connecting-to-wmi-remotely-with-c-
+
+
 namespace NetworkScan
 {
     /// <summary>
